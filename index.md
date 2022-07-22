@@ -9,15 +9,10 @@ This will serve as a brief description of your project. Limit this to three sent
 
 
 
-
-| **Engineer** | **School** | **Area of Interest** | **Grade** | 
-|:--:|:--:|:--:|:--:|
-| Vedika S. | Cupertino High School | Electrical Engineering | Incoming Senior
-
-
- | **Engineer** | **School** | **Area of Interest** | **Grade** | 
- |:--:|:--:|:--:|:--:|
- | Vedika S. | Cupertino High School | Electrical Engineering | Incoming Senior |
+<video width="320" height="240" controls>
+  <source src="2020-12-07 05-39-57.mov" type="video/mov">
+  Your browser does not support the video tag.
+</video>
 
 
 
