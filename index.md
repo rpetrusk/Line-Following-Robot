@@ -6,6 +6,9 @@ This will serve as a brief description of your project. Limit this to three sent
 | ROBERT  | Current Highschool | Electrical Engineering | Incoming Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+  ![Milestone3-min](https://user-images.githubusercontent.com/60409824/180487489-def2a29d-8189-4b0e-9e26-02132627ba2b.png)
+
+  
   
 # Bill Of Materials
 
