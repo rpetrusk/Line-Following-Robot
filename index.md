@@ -9,8 +9,8 @@ This will serve as a brief description of your project. Limit this to three sent
 
 
 
-  <video src="2020-12-07 05-39-57.mov" controls="controls" />
-
+<video src="2020-12-07 05-39-57.mov" controls="controls">
+</video>
 
 
 
