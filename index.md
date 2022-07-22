@@ -15,7 +15,9 @@ This will serve as a brief description of your project. Limit this to three sent
 | Vedika S. | Cupertino High School | Electrical Engineering | Incoming Senior
 
 
-
+ | **Engineer**|**School** |**Area of Interest** |**Grade** | 
+ |:--:||:--:||:--:||:--:|
+ | Vedika S. |Cupertino High School |Electrical Engineering |Incoming Senior|
 
 
 
