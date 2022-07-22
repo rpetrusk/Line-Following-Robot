@@ -1,10 +1,13 @@
 ﻿# Project Name/Title Goes Here
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
- | **Engineer** | **School** | **Area of Interest** | **Grade** | 
- |:–:|:–:|:–:|:–:|
- 
+| **Engineer** | **School** | **Area of Interest** | **Grade** | 
+|:–:|:–:|:–:|:–:|
 | Vedika S. | Cupertino High School | Electrical Engineering | Incoming Senior
+
+| **Engineer** | **School** | **Area of Interest** | **Grade** |
+|:--:|:--:|:--:|:--:|
+| Cindy L. | BASIS Independent Silicon Valley | Electrical Engineering | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   ![Milestone3-min](https://user-images.githubusercontent.com/60409824/180487489-def2a29d-8189-4b0e-9e26-02132627ba2b.png)
